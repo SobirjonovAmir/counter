@@ -27,5 +27,3 @@ random.onclick = () => {
 
 
 
-
-
